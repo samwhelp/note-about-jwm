@@ -14,7 +14,7 @@ has_children: true
 
 | Jwm |
 | -------- |
-| [Jwm](https://joewing.net/projects/jwm/) |
+| [JWM (Joe's Window Manager)](https://joewing.net/projects/jwm/) |
 | Jwm / [Configuration](https://joewing.net/projects/jwm/config.html) |
 | GitHub / [jwm](https://github.com/joewing/jwm) |
 
