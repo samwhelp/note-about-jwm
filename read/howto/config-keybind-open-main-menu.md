@@ -59,4 +59,4 @@ parent: 如何
 
 | 相關議題 |
 | ------- |
-| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-jwm/read/howto/config-mouse-button-modifier.html) |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-jwm/read/howto/config-mouse-button-modifier.html) |
