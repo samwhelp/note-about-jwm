@@ -32,13 +32,13 @@ parent: 如何
 
 ### RootMenu
 
-原本「RootMenu」的[設定](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Default-Debian/asset/overlay/etc/skel/.jwmrc#L5C2-L5C24)，是設定在「桌面」，「滑鼠左鍵單按」或「滑鼠中鍵單按」可以觸發開啟「Main Menu」。
+原本「RootMenu」的[設定](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Default-Debian/asset/overlay/etc/skel/.jwmrc#L5C2-L5C24)，是設定在「桌面」，「`滑鼠左鍵單按`」或「`滑鼠中鍵單按`」可以觸發開啟「Main Menu」。
 
 ``` xml
 	<RootMenu onroot="12">
 ```
 
-改成如下的[設定](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L5)，改成在「桌面」，「滑鼠右鍵單按」可以觸發開啟「Main Menu」。
+改成如下的[設定](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L5)，改成在「桌面」，「`滑鼠右鍵單按`」可以觸發開啟「Main Menu」。
 
 ``` xml
 	<RootMenu onroot="3">
