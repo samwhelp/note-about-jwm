@@ -106,7 +106,7 @@ parent: 如何
 | 相關議題 |
 | ------- |
 | [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-jwm/read/config/mousebind.html#視窗內容區塊) |
-| [設定按鍵綁定開啟「Main Menu」](https://samwhelp.github.io/note-about-jwm/read/howto/config-keybind-open-overlay.html) |
+| [設定按鍵綁定開啟「Main Menu」](https://samwhelp.github.io/note-about-jwm/read/howto/config-keybind-open-main-menu.html) |
 
 
 
