@@ -31,6 +31,11 @@ parent: 如何
 
 ## 說明
 
+
+
+
+### Alt
+
 原本的[設定](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Default-Debian/asset/overlay/etc/skel/.jwmrc#L182-L186)如下
 
 ``` xml
@@ -59,6 +64,10 @@ parent: 如何
 	<ResizeMode mask="A">opaque</ResizeMode>
 ```
 
+
+
+
+### Win
 
 而我慣用的「Mouse Button Modifier」是「`Win鍵`」，所以我會改成如下的[設定](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L204-L213)
 
