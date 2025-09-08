@@ -45,7 +45,6 @@ parent: 如何
 ```
 
 
-
 ### 額外的按鍵綁定
 
 原本[設定](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Default-Debian/asset/overlay/etc/skel/.jwmrc#L203C2-L203C37)「`Alt + F1`」可以觸發開啟「Main Menu」。
