@@ -72,7 +72,7 @@ parent: 如何
 
 舉例：
 
-* 我們可以將「Menu」的內容，拆分到「[$HOME/.config/jwm/menu](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.config/jwm/menu)」這個檔案，然後透過「`<Include>$HOME/.config/jwm/menu</Include>`」[這個指令加入](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L19)
+* 我們可以將「Menu」的內容，拆分到「[$HOME/.config/jwm/menu](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.config/jwm/menu)」這個檔案，然後透過「`<Include>$HOME/.config/jwm/menu</Include>`」[這個指令加入](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L19)。
 
 * 我們可以將「StartupCommand」裡面的[內容](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L452-L456)，
 
@@ -84,7 +84,7 @@ parent: 如何
 		mate-volume-control-status-icon &
 ```
 
-拆分到「[$HOME/.config/jwm/start](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.config/jwm/start)」這個檔案，然後透過「`<StartupCommand>~/.config/jwm/start</StartupCommand>`」[這個指令加入](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L448)
+拆分到「[$HOME/.config/jwm/start](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.config/jwm/start)」這個檔案，然後透過「`<StartupCommand>~/.config/jwm/start</StartupCommand>`」[這個指令加入](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main/asset/overlay/etc/skel/.jwmrc#L448)。
 
 
 
