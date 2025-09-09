@@ -16,6 +16,13 @@ has_children: true
 | [設定按鍵綁定開啟「Main Menu」](https://samwhelp.github.io/note-about-jwm/read/howto/config-keybind-open-main-menu.html) |
 
 
+### 設定檔
+
+| 設定檔 |
+| ----- |
+| [模組化設定檔](https://samwhelp.github.io/note-about-jwm/read/howto/modular-config.html) |
+
+
 
 
 ## 相關連結
