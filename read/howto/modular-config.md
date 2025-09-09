@@ -22,7 +22,9 @@ parent: 如何
 
 ## 設定擋路徑
 
-* [~/.jwmrc](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main-Standalone/asset/overlay/etc/skel/.jwmrc)
+| 設定擋路徑 |
+| --------- |
+| [~/.jwmrc](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Main-Standalone/asset/overlay/etc/skel/.jwmrc) |
 
 
 
