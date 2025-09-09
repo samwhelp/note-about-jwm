@@ -27,6 +27,14 @@
 | [Jwm Config](https://github.com/samwhelp/jwm-adjustment/tree/main/prototype/main/jwm-config) |
 | [Tool Config](https://github.com/samwhelp/debian-adjustment/tree/main/prototype/main/tool-config/part) |
 
+| Jwm Config |
+| ---------- |
+| [Main-Standalone](https://github.com/samwhelp/jwm-adjustment/tree/main/prototype/main/jwm-config/part/Main-Standalone) |
+| [Main](https://github.com/samwhelp/jwm-adjustment/tree/main/prototype/main/jwm-config/part/Main) |
+| [Modular-Basic](https://github.com/samwhelp/jwm-adjustment/tree/main/prototype/main/jwm-config/part/Modular-Basic) |
+| [Modular-Port](https://github.com/samwhelp/jwm-adjustment/tree/main/prototype/main/jwm-config/part/Modular-Port) |
+| [Modular-Profile](https://github.com/samwhelp/jwm-adjustment/tree/main/prototype/main/jwm-config/part/Modular-Profile) |
+
 
 
 
