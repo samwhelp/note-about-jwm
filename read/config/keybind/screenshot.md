@@ -34,7 +34,7 @@ grand_parent: 設定
 	<Key mask="A" key="Print">exec:xfce4-screenshooter</Key>
 ```
 
-> 若是採用「`xfce4-screenshooter`」，在「Debian」，可以執行下面指令，安裝「[xfce4-screenshooter](https://packages.debian.org/stable/xfce4-screenshooter)」。
+> 若是採用「[xfce4-screenshooter](https://manpages.debian.org/trixie/xfce4-screenshooter/xfce4-screenshooter.1.en.html)」，在「Debian」，可以執行下面指令，安裝「[xfce4-screenshooter](https://packages.debian.org/stable/xfce4-screenshooter)」。
 
 ``` sh
 sudo apt-get install xfce4-screenshooter
