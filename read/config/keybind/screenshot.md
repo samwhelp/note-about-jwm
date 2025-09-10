@@ -9,7 +9,7 @@ grand_parent: 設定
 
 # 螢幕截圖
 
-* [採用「xfce4-screenshooter」](#xfce4-screenshooter)
+* [透過「xfce4-screenshooter」](#xfce4-screenshooter)
 
 
 
@@ -31,4 +31,10 @@ grand_parent: 設定
 	<Key mask="4" key="Print">exec:xfce4-screenshooter --window</Key>
 	<Key mask="C" key="Print">exec:xfce4-screenshooter --region</Key>
 	<Key mask="A" key="Print">exec:xfce4-screenshooter</Key>
+```
+
+> 若是採用「xfce4-screenshooter」，在「Debian」可以執行下面指令安裝「[xfce4-screenshooter](https://packages.debian.org/stable/xfce4-screenshooter)」。
+
+``` sh
+sudo apt-get install xfce4-screenshooter
 ```
