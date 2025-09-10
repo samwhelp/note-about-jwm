@@ -24,7 +24,7 @@ parent: 如何
 
 ## 相關文件
 
-* Jwm / [Configuration](https://joewing.net/projects/jwm/config.html#other)
+* Jwm / Configuration / [Other Settings](https://joewing.net/projects/jwm/config.html#other)
 
 
 
