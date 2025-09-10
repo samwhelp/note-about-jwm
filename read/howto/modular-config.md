@@ -91,7 +91,7 @@ parent: 如何
 
 ### 進階拆分
 
-我們也可以將「`xml`」的內容，拆分出去，然後透過「`<Include>$HOME/.config/jwm/config/main/keybind/default.conf</Include>`」[這個指令加入](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Modular-Basic/asset/overlay/etc/skel/.jwmrc#L49)。
+我們也可以將「`xml`」的內容，[拆分出去](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Modular-Basic/asset/overlay/etc/skel/.config/jwm/config/main/panel/top.conf)，然後透過「`<Include>$HOME/.config/jwm/config/main/panel/top.conf</Include>`」[這個指令加入](https://github.com/samwhelp/jwm-adjustment/blob/main/prototype/main/jwm-config/part/Modular-Basic/asset/overlay/etc/skel/.jwmrc#L31)。
 
 更多的實作，請參考下面的範例。
 
