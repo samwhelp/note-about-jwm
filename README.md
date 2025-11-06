@@ -73,9 +73,10 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
-| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
-| [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Debian Jwm 探索筆記](https://samwhelp.github.io/note-about-debian-jwm/) | [GitHub](https://github.com/samwhelp/note-about-debian-jwm) |
+| [Ubuntu Jwm 探索筆記](https://samwhelp.github.io/note-about-ubuntu-jwm/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-jwm) |
+| [Fedora Jwm 探索筆記](https://samwhelp.github.io/note-about-fedora-jwm/) | [GitHub](https://github.com/samwhelp/note-about-fedora-jwm) |
+| [Archlinux Jwm 探索筆記](https://samwhelp.github.io/note-about-archlinux-jwm/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-jwm) |
 
 
 
